@@ -4,7 +4,7 @@
 
 **在线试玩：** [https://jinzi2025666-dotcom.github.io/yunque-flight/](https://jinzi2025666-dotcom.github.io/yunque-flight/)
 
-线上页面来自 `main` 分支的 [`docs/index.html`](docs/index.html)（GitHub Pages，发布目录 `/docs`）。本地开发用下面的 Vite 源码。
+线上页面来自 `main` 分支的 [`docs/index.html`](docs/index.html)（GitHub Pages，发布目录 `/docs`）。若链接暂时打不开，到仓库 **Settings → Pages**，Source 选 **Deploy from a branch**，分支 `main`、目录 `/docs`，保存后等一两分钟。本地开发用下面的 Vite 源码。
 
 ## 运行
 
